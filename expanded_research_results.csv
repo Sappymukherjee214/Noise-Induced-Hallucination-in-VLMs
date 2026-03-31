@@ -1,0 +1,10 @@
+Noise,Severity,Caption,Entropy,Entropy_Gap,Semantic_Drift,Hallucination_Detected
+gaussian,0.2,two cats laying on a pink blanket,2.809423804283142,0.2111591441290721,0.011628389358520508,False
+gaussian,0.5,two cats laying on a pink blanket,2.8037051260471344,0.20544046589306442,0.011628389358520508,False
+gaussian,0.8,two cats laying on a pink blanket,2.7562933564186096,0.15802869626453964,0.011628389358520508,False
+blur,0.2,two cats sleeping on a couch,2.6186977113996233,0.02043305124555328,0.0,False
+blur,0.5,two cats laying on a pink couch,2.6965444684028625,0.09827980824879257,0.006982564926147461,False
+blur,0.8,two cats sleeping on a pink couch,2.589142233133316,-0.009122427020753943,0.004468560218811035,False
+jpeg,0.2,two cats sleeping on a couch,2.59956693649292,0.0013022763388499392,0.0,False
+jpeg,0.5,two cats sleeping on a couch,2.59956693649292,0.0013022763388499392,0.0,False
+jpeg,0.8,two cats sleeping on a couch,2.6089663164956227,0.010701656341552734,0.0,False

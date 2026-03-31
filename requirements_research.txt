@@ -1,0 +1,35 @@
+# Use: pip install -r requirements_research.txt
+
+# Core Deep Learning
+torch>=2.1.0
+torchvision
+torchaudio
+accelerate>=0.22.0
+transformers>=4.35.0
+bitsandbytes>=0.41.0
+opencv-python-headless
+
+# Vision-Language Models & Tools
+llava-v1.5-7b-hf
+qwen-vl-chat
+timm
+sentence-transformers
+peft
+datasets
+albumentations
+pillow
+numpy
+
+# Metrics & NL Processing
+nltk
+spacy
+scikit-learn
+pandas
+tqdm
+pyyaml
+
+# Experiment Tracking (Standard in MNC R&D)
+wandb
+tensorboard
+matplotlib
+seaborn
