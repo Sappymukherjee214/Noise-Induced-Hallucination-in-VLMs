@@ -1,6 +1,6 @@
 # VAlign-Robust: Quantifying & Mitigating Semantic Hallucination Drift in Multimodal Models
 
-## 🎓 Research Manifesto (IIT/NIT/IISc/MNC R&D Standard)
+## 🎓 Research Manifesto
 
 Large Multimodal Models (LMMs) have achieved parity with human performance on high-fidelity benchmarks. However, their reliability in **safety-critical, out-of-distribution (OOD) scenarios**—such as medical imaging or autonomous navigation—remains a "black box" concern.
 
